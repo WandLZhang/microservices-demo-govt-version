@@ -1,7 +1,7 @@
-# Hipster Shop: Cloud-Native Microservices Demo Application
+# Government Shop: Cloud-Native Microservices Demo Application
 
 This project contains a 10-tier microservices application. The application is a
-web-based e-commerce app called **“Hipster Shop”** where users can browse items,
+web-based e-commerce app called **“Government Shop”** (based on forked Hipster Shop) where users can browse items,
 add them to the cart, and purchase them.
 
 **Google uses this application to demonstrate use of technologies like
@@ -11,10 +11,6 @@ Kubernetes Engine. It’s **easy to deploy with little to no configuration**.
 
 If you’re using this demo, please **★Star** this repository to show your interest!
 
-> 👓**Note to Googlers:** Please fill out the form at
-> [go/microservices-demo](http://go/microservices-demo) if you are using this
-> application.
-
 ## Screenshots
 
 | Home Page                                                                                                         | Checkout Screen                                                                                                    |
@@ -23,7 +19,7 @@ If you’re using this demo, please **★Star** this repository to show your int
 
 ## Service Architecture
 
-**Hipster Shop** is composed of many microservices written in different
+**Government Shop** is composed of many microservices written in different
 languages that talk to each other over gRPC.
 
 [![Architecture of
@@ -262,17 +258,6 @@ If you've deployed the application with `skaffold run` command, you can run
 If you've deployed the application with `kubectl apply -f [...]`, you can
 run `kubectl delete -f [...]` with the same argument to clean up the deployed
 resources.
-
-## Conferences featuring Hipster Shop
-
-- [Google Cloud Next'18 London – Keynote](https://youtu.be/nIq2pkNcfEI?t=3071)
-  showing Stackdriver Incident Response Management
-- Google Cloud Next'18 SF
-  - [Day 1 Keynote](https://youtu.be/vJ9OaAqfxo4?t=2416) showing GKE On-Prem
-  - [Day 3 – Keynote](https://youtu.be/JQPOPV_VH5w?t=815) showing Stackdriver
-    APM (Tracing, Code Search, Profiler, Google Cloud Build)
-  - [Introduction to Service Management with Istio](https://www.youtube.com/watch?v=wCJrdKdD6UM&feature=youtu.be&t=586)
-- [KubeCon EU 2019 - Reinventing Networking: A Deep Dive into Istio's Multicluster Gateways - Steve Dake, Independent](https://youtu.be/-t2BfT59zJA?t=982)
 
 ---
 
