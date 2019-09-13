@@ -2,109 +2,97 @@
     "products": [
         {
             "id": "OLJCESPC7Z",
-            "name": "Vintage Typewriter",
-            "description": "This typewriter looks good in your living room.",
-            "picture": "/static/img/products/typewriter.jpg",
+            "name": "Noise-cancelling Headset",
+            "description": "This headset looks good on your head.",
+            "picture": "/static/img/products/headset.png",
             "priceUsd": {
                 "currencyCode": "USD",
                 "units": 67,
                 "nanos": 990000000
             },
-            "categories": ["vintage"]
+            "categories": ["electronics","accessories"]
         },
         {
             "id": "66VCHSJNUP",
-            "name": "Vintage Camera Lens",
-            "description": "You won't have a camera to use it and it probably doesn't work anyway.",
-            "picture": "/static/img/products/camera-lens.jpg",
+            "name": "Desk Phone",
+            "description": "You probably don't have these at your house anymore, so enjoy the desk experience.",
+            "picture": "/static/img/products/phone.png",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 12,
+                "units": 48,
                 "nanos": 490000000
             },
-            "categories": ["photography", "vintage"]
+            "categories": ["electronics", "telecommunications"]
         },
         {
             "id": "1YMWWN1N4O",
-            "name": "Home Barista Kit",
-            "description": "Always wanted to brew coffee with Chemex and Aeropress at home?",
-            "picture": "/static/img/products/barista-kit.jpg",
+            "name": "Power Cable",
+            "description": "Juice up your day with this entanglement.",
+            "picture": "/static/img/products/powercable.png",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 124
+                "units": 12
             },
-            "categories": ["cookware"]
+            "categories": ["electronics","accessories"]
         },
         {
             "id": "L9ECAV7KIM",
-            "name": "Terrarium",
-            "description": "This terrarium will looks great in your white painted living room.",
-            "picture": "/static/img/products/terrarium.jpg",
+            "name": "SIM Card",
+            "description": "Now you have to redo all your contacts again.",
+            "picture": "/static/img/products/simcard.png",
             "priceUsd": {
                 "currencyCode": "USD",
                 "units": 36,
                 "nanos": 450000000
             },
-            "categories": ["gardening"]
+            "categories": ["electronics","telecommunications"]
         },
         {
             "id": "2ZYFJ3GM2N",
-            "name": "Film Camera",
-            "description": "This camera looks like it's a film camera, but it's actually digital.",
-            "picture": "/static/img/products/film-camera.jpg",
+            "name": "Badge Reader",
+            "description": "Please coordinate with facilities if you're adding new rooms to the office.",
+            "picture": "/static/img/products/badgereader.png",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 2245
+                "units": 13
             },
-            "categories": ["photography", "vintage"]
+            "categories": ["access"]
         },
         {
             "id": "0PUK6V6EV0",
-            "name": "Vintage Record Player",
-            "description": "It still works.",
-            "picture": "/static/img/products/record-player.jpg",
+            "name": "Laptop",
+            "description": "Solitaire is not installed.",
+            "picture": "/static/img/products/laptop.png",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 65,
+                "units": 650,
                 "nanos": 500000000
             },
-            "categories": ["music", "vintage"]
+            "categories": ["electronics"]
         },
         {
             "id": "LS4PSXUNUM",
-            "name": "Metal Camping Mug",
-            "description": "You probably don't go camping that often but this is better than plastic cups.",
-            "picture": "/static/img/products/camp-mug.jpg",
+            "name": "Monitor",
+            "description": "Zoom in and make words bigger.",
+            "picture": "/static/img/products/monitor.png",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 24,
+                "units": 240,
                 "nanos": 330000000
             },
-            "categories": ["cookware"]
+            "categories": ["electronics","accessories"]
         },
         {
             "id": "9SIQT8TOJO",
-            "name": "City Bike",
-            "description": "This single gear bike probably cannot climb the hills of San Francisco.",
+            "name": "Chromebox",
+            "description": "Be like your kid who uses Chromebooks at school.",
             "picture": "/static/img/products/city-bike.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 789,
+                "units": 520,
                 "nanos": 500000000
             },
-            "categories": ["cycling"]
-        },
-        {
-            "id": "6E92ZMYYFZ",
-            "name": "Air Plant",
-            "description": "Have you ever wondered whether air plants need water? Buy one and figure out.",
-            "picture": "/static/img/products/air-plant.jpg",
-            "priceUsd": {
-                "currencyCode": "USD",
-                "units": 12,
-                "nanos": 300000000
-            },
-            "categories": ["gardening"]
+            "categories": ["electronics"]
         }
     ]
 }
