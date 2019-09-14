@@ -86,7 +86,7 @@
             "id": "9SIQT8TOJO",
             "name": "Chromebox",
             "description": "Be like your kid who uses Chromebooks at school.",
-            "picture": "/static/img/products/city-bike.jpg",
+            "picture": "/static/img/products/chromebox.png",
             "priceUsd": {
                 "currencyCode": "USD",
                 "units": 520,
