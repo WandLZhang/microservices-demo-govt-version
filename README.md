@@ -1,7 +1,7 @@
 # Government Shop: Cloud-Native Microservices Demo Application
 
 This project contains a 10-tier microservices application. The application is a
-web-based e-commerce app called **“Government Shop”** (based on forked Hipster Shop) where users can browse items,
+web-based e-commerce app called **“Government Shop”** (forked from [Hipster Shop](https://github.com/GoogleCloudPlatform/microservices-demo)) where users can browse items,
 add them to the cart, and purchase them.
 
 **Google uses this application to demonstrate use of technologies like
