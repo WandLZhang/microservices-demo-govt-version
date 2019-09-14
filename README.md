@@ -15,7 +15,7 @@ If you’re using this demo, please **★Star** this repository to show your int
 
 | Home Page                                                                                                         | Checkout Screen                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| [![Screenshot of store homepage](./docs/img/hipster-shop-frontend-1.png)](./docs/img/hipster-shop-frontend-1.png) | [![Screenshot of checkout screen](./docs/img/hipster-shop-frontend-2.png)](./docs/img/hipster-shop-frontend-2.png) |
+| [![Screenshot of store homepage](./docs/img/shop-frontend-1.png)](./docs/img/shop-frontend-1.png) | [![Screenshot of checkout screen](./docs/img/shop-frontend-2.png)](./docs/img/shop-frontend-2.png) |
 
 ## Service Architecture
 
